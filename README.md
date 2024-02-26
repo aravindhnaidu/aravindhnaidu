@@ -4,10 +4,8 @@
 - 💞️ I’m looking to collaborate on creative Websites with different frameworks ...
 - 📫 How to reach me: simplly search in github like @aravindhnaidu...
 - 😄 Pronouns: web developer...
-- ⚡ Fun fact:Easy, Easier, Easiest in HTML and CSS
-              :A Thirst for Knowledge      
-              :Creative Mindset
-
+- ⚡ Fun fact:Easy, Easier, Easiest in HTML and CSS,A Thirst for Knowledge,Creative Mindset
+             
 
 <!---
 aravindhnaidu/aravindhnaidu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
